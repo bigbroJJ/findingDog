@@ -1,0 +1,27 @@
+body {
+  background-color: darkgreen;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+}
+p{
+  background-color: pink;
+}
+.menu {
+  width: 200px;
+  height: 400px;
+  display: inline-block;
+}
+
+.gameboard {
+  text-align: center;
+  width: auto;
+  height: auto;
+  background-color: yellowgreen;
+  display: inline-block;
+}
+img {
+  padding: 10px;
+}
